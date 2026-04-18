@@ -13,16 +13,19 @@
 * Java
 * Python
 
-### フレームワーク / ライブラリ
+### フレームワーク / ライブラリ📗
 
 * OpenCV
 * Unity
 
-### ツール
+### ツール🛠️
 
 * Git / GitHub
 * VS Code
 * Discord
+
+### メールアドレス✉️
+
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,opencv,unity,vscode,discord)](https://skillicons.dev)
 
