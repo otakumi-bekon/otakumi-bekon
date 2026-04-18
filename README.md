@@ -9,9 +9,9 @@
 
 ### 使用言語
 
-* Python
 * C / C++
 * Java
+* Python
 
 ### フレームワーク / ライブラリ
 
@@ -24,7 +24,7 @@
 * VS Code
 * Discord
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,unity,discord,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,opencv,unity,vscode,discord)](https://skillicons.dev)
 
 
 <!--
