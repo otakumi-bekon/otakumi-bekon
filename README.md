@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,java,python,go,rust,dart,flutter,react,flask,mysql,docker,kubernetes)](https://skillicons.dev)
+
+
 <!--
 **otakumi-bekon/otakumi-bekon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
