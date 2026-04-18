@@ -26,7 +26,7 @@
 
 ### メールアドレス✉️
 
-*otatakumi2004@gmail.com
+* otatakumi2004@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,opencv,unity,vscode,discord)](https://skillicons.dev)
 
